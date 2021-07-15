@@ -7,7 +7,7 @@ evs
 ===
 
 Assistent zur berechnung von Erwartungswert (E), Varianz (V) und Standartabweichung.
-Erechnet besagte werte dynamisch aus n Elementen, gibt diese aus und speichert sie in Variablen. 
+Errechnet besagte Werte dynamisch aus n Elementen, gibt diese aus und speichert sie in Variablen. 
 Das Programm erwartet keine Parameter.
 
 Zugegriffen wird so:
